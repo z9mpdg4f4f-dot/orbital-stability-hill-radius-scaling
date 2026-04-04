@@ -1,8 +1,9 @@
 # Orbital Stability and Hill Radius Scaling
 
-This repository contains the computational model used in the study:
+Computational model for analyzing gravitational dominance in planetary systems using Hill-radius scaling.
 
-Orbital Stability and Gravitational Dominance Across Planetary Systems: A Hill-Radius Scaling Approach
+"Orbital Stability and Gravitational Dominance Across Planetary Systems: A Hill-Radius Scaling Approach"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19361215.svg)](https://doi.org/10.5281/zenodo.19361215)
 
 ## Author
 
@@ -48,15 +49,22 @@ F_body / F_sun = 1.
 
 ## Repository Structure
 
-orbital_stability_hill_radius_scaling.py  
-Main simulation code.
+## Repository Structure
 
-figures/  
-Generated plots used in the analysis.
+simulation code/
+  orbital_stability_hill_radius_scaling.py  
+  orbital_stability_hill_radius_scaling.ipynb
 
-paper/  
-Published research paper.
+paper/
+  Orbital_Stability_Hill_Radius_Scaling.pdf
 
+figures/
+  hill_radius_comparison.png
+  Earth_stability_plot.png
+  Mars_stability_plot.png
+  Jupiter_stability_plot.png
+  Bennu_stability_plot.png
+ 
 ## Notes
 
 This model provides a simplified indicator of gravitational dominance. It does not solve the full restricted three-body problem and does not include time-dependent orbital integrations.
