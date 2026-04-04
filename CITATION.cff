@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Orbital Stability and Gravitational Dominance Across Planetary Systems: A Hill-Radius Scaling Approach"
+message: "If you use this repository, please cite the software and the associated paper using the metadata below."
+type: software
+
+authors:
+  - family-names: "Çarboğa"
+    given-names: "Ömür"
+
+date-released: 2026
+
+doi: 10.5281/zenodo.19422082
+
+repository-code: "https://github.com/omurcarboga/orbital-stability-hill-radius-scaling"
+  
+abstract: >
+  Computational model for analyzing gravitational dominance in planetary systems
+  using Hill-radius scaling. The model evaluates the ratio of gravitational forces
+  between celestial bodies and the Sun, normalized by the Hill radius, across
+  Earth, Mars, Jupiter, and asteroid Bennu.
+
+license: MIT
+
+references:
+  - type: article
+    title: "Orbital Stability and Gravitational Dominance Across Planetary Systems: A Hill-Radius Scaling Approach"
+    authors:
+      - family-names: "Çarboğa"
+        given-names: "Ömür"
+    year: 2026
+    doi: 10.5281/zenodo.19361215
