@@ -2,8 +2,8 @@
 
 Computational model for analyzing gravitational dominance in planetary systems using Hill-radius scaling.
 
-"Orbital Stability and Gravitational Dominance Across Planetary Systems: A Hill-Radius Scaling Approach"
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19361215.svg)](https://doi.org/10.5281/zenodo.19361215)
+"Gravitational Dominance in Planetary Systems: A Force-Based Hill-Radius Scaling Approach"
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20385397.svg)](https://doi.org/10.5281/zenodo.20385397)
 
 ## Author
 
